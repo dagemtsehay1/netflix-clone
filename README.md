@@ -45,3 +45,12 @@ $ npm start
 To use themoviedb.org API, you must register and obtain an access key, which is necessarily used in the application.
 
 > Folder **src** > **Tmdbb.js** > **API_KEY**
+
+
+### Live Demo <a href="https://dagemtsehay1.github.io/netflix-clone/" target="_blank">Here</a>
+
+## Authors
+
+> - Dagem Tsehay <dagemtsehay4@gmail.com>
+> - Getayawkal Tamrat <gtamrat33@gmail.com>
+> - Yunus Kidem <yunuskt363@gmail.com>
