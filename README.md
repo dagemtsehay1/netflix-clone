@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    Netflix homepage clone using React JS.
+    Netflix homepage clone using React JS!
     <br />
     <br />
 </p>
