@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://dagemtsehay1.github.io/netflix-clone-mvp/"><img src="docs/logo-netflix-clone.png?raw=true" alt="Logo" width="210"></a>
+    <a href="https://dagemtsehay1.github.io/netflix-clone/"><img src="docs/logo-netflix-clone.png?raw=true" alt="Logo" width="210"></a>
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@ With the terminal available, follow the instructions below:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/dagemtsehay1/netflix-clone-mvp
+$ git clone https://github.com/dagemtsehay1/netflix-clone
 
-# Access the netflix-clone-mvp folder
-$ cd netflix-clone-mvp
+# Access the netflix-clone folder
+$ cd netflix-clone
 
 # Install dependencies
 $ npm install
