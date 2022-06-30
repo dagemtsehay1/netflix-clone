@@ -28,7 +28,7 @@ With the terminal available, follow the instructions below:
 # Clone the repository
 $ git clone https://github.com/dagemtsehay1/netflix-clone-mvp
 
-# Access the netflix-clone-reactjs folder
+# Access the netflix-clone-mvp folder
 $ cd netflix-clone-mvp
 
 # Install dependencies
