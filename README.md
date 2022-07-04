@@ -20,7 +20,7 @@ Basically, this project was developed based on the following technologies:
   &nbsp&nbsp
 </p>
 
-## Start project
+## Start Project
 
 With the terminal available, follow the instructions below:
 
